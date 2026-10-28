@@ -1,0 +1,5 @@
+D:/Documents/it_cpp_01_prj/inventory_app/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/CMakeFiles/inventory_app.dir
+D:/Documents/it_cpp_01_prj/inventory_app/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/CMakeFiles/edit_cache.dir
+D:/Documents/it_cpp_01_prj/inventory_app/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/CMakeFiles/rebuild_cache.dir
+D:/Documents/it_cpp_01_prj/inventory_app/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/CMakeFiles/inventory_app_autogen_timestamp_deps.dir
+D:/Documents/it_cpp_01_prj/inventory_app/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/CMakeFiles/inventory_app_autogen.dir
